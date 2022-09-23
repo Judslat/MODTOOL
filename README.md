@@ -2,7 +2,8 @@
 
 This is my collection of all the Modding tools that are used with the DJI range of units
 
-Download the files to desktop and run the the "Runme.Bat" file
+Click the green code button then click download zip
+extract the files to desktop and run the the "Runme.Bat" file
 
 this tool is the only one that has all the needed files and are the originals so many
 thanks to all those who built the tools
