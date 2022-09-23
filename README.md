@@ -2,8 +2,9 @@
 
 This is my collection of all the Modding tools that are used with the DJI range of units
 
-Just run the setup file and it will download the tool from dropbox and create a shortcut on your
-desktop, this tool is the only one that has all the needed files and are the originals so many
+Download the files to desktop and run the the "Runme.Bat" file
+
+this tool is the only one that has all the needed files and are the originals so many
 thanks to all those who built the tools
 
 I have made the Deejayeye modder tool easier to use as it auto elevates the command prompt, if it hangs
